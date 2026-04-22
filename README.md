@@ -1,6 +1,6 @@
-# Stat 238 Homework
+# Stat 238 - Bayesian Statistics
 
-Code for my homework in **Stat 238** at **UC Berkeley**.
+Code I did while taking **Stat 238** at **UC Berkeley**.
 
 This repository contains selected coursework in Bayesian statistics, with assignments focused on posterior inference, hierarchical modeling, regression, MCMC, and applied data analysis in Python.
 
